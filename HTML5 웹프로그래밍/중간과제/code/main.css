@@ -1,0 +1,11 @@
+h1 {text-align: center; padding: 20px 0 0 0;}
+header {padding-bottom: 10px; border-bottom: 1px solid #000000;}
+header > div {margin: 0 20px 0 20px;}
+nav > ul {display: flex; list-style: none;}
+nav > ul > li > a {padding: 10px 20px 10px 20px; background-color: rgb(159, 214, 214); border: 1px solid aqua;}
+article {margin: 40px 0; text-align: center;}
+#content-wrapper {display: flex; margin-bottom: 40px; }
+#content-wrapper > section {width: 80%;}
+#content-wrapper > aside {padding: 0 20px; border-left: 1px solid #000000;}
+footer {border-top: 1px solid #000000;}
+footer small {display: block;}
